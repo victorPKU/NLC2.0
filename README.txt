@@ -1,4 +1,6 @@
 In each directory:
+Lowercase: non antibody-antigen complex
+Uppercase: antibody-antigen complex
 
 _note: summary of this docking case, including binding coordination number
        chains, size, unnatural amino acid, small molecules
